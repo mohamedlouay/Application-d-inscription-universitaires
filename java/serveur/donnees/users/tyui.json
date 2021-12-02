@@ -1,0 +1,49 @@
+{
+  "prenom" : "tgfs",
+  "liste_choix" : [ {
+    "code" : "SPUM12",
+    "discipline" : "Math Fondements 1 S1",
+    "sousDiscipline" : null,
+    "semestre" : 1,
+    "ects" : 6,
+    "nomUE" : "UE MATHS S1 : Methodes - approche continue",
+    "nbPlaces" : 280,
+    "preChecked" : false,
+    "sansSousMatieres" : false,
+    "teteGroupe" : false
+  }, {
+    "code" : "SPUGDE10",
+    "discipline" : "Geographie S1",
+    "sousDiscipline" : null,
+    "semestre" : 1,
+    "ects" : 6,
+    "nomUE" : "UE GEOGRAPHIE : Decouverte 1",
+    "nbPlaces" : 4,
+    "preChecked" : false,
+    "sansSousMatieres" : false,
+    "teteGroupe" : false
+  }, {
+    "code" : "SPUGDE10",
+    "discipline" : "Geographie S1",
+    "sousDiscipline" : null,
+    "semestre" : 1,
+    "ects" : 6,
+    "nomUE" : "UE GEOGRAPHIE : Decouverte 1",
+    "nbPlaces" : 4,
+    "preChecked" : false,
+    "sansSousMatieres" : false,
+    "teteGroupe" : false
+  }, {
+    "code" : "SPUM12",
+    "discipline" : "Math Fondements 1 S1",
+    "sousDiscipline" : null,
+    "semestre" : 1,
+    "ects" : 6,
+    "nomUE" : "UE MATHS S1 : Methodes - approche continue",
+    "nbPlaces" : 280,
+    "preChecked" : false,
+    "sansSousMatieres" : false,
+    "teteGroupe" : false
+  } ],
+  "nom" : "tyui"
+}
